@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "quDSjV/+YSO8WeDOTR4eLSrOZmcD0Ku93popyez1sRud9aFD5SGo3eS8z+hB5RYv6NsTGrL1DHSZUBbF5JEfqQ==",
+  "dgSpecHash": "qrDFSa+mCZCNF1iRBvN2W0pBoWPZkDfPkqqNUKFXbWaYKIbKoGJ7Jd3m/5NK6VJ+cLjYojQiK8GFQnyyDs0OJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\danij\\source\\repos\\InventorySystem\\InventorySystem\\InventorySystem.csproj",
   "expectedPackageFiles": [
@@ -238,7 +238,9 @@
     "C:\\Users\\danij\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\danij\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
     "C:\\Users\\danij\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\danij\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\danij\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\danij\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\danij\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

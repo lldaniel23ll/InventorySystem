@@ -1,4 +1,6 @@
 using InventorySystem.DataAccess.Data;
+using InventorySystem.Repository;
+using InventorySystem.Repository.RepoInterface;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +15,8 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+builder.Services.AddScoped<WorkUnitInterface, WorkUnit>();
 
 var app = builder.Build();
 
